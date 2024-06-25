@@ -6,3 +6,8 @@ version control
 
 tracked
 untracked
+
+make changes -> git add
+-> git commit -> git push
+
+git pull
