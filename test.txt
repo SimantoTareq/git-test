@@ -1,6 +1,7 @@
 hello
 I'm Tareq
 Bangladesh
+Check how push work
 
 1.Make the commits often but too often
 2.Write simple, clear and concise , commit message should not more than 50 characters
