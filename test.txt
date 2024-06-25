@@ -4,7 +4,7 @@ Bangladesh
 Check how push work
 
 DO more practice
-
+check git name check
 1.Make the commits often but too often
 2.Write simple, clear and concise , commit message should not more than 50 characters
 3.Use imperative mode: Add, Remove, Fix
